@@ -1,0 +1,15 @@
+test set：
+1Guiyang
+2Huhehaote	
+3Nanjing
+4Hangzhou	
+5Chongqing
+6Xi'an
+7Taiyuan
+8Suzhou
+9Nanchang
+10Shanghai
+
+Training set: The remaining cities
+
+Dataset link：https://github.com/whu-csl/WHU-SEN-City
